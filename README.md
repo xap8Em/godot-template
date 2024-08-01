@@ -1,1 +1,1 @@
-# godot-template
+# Godot Template
